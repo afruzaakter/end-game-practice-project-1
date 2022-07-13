@@ -4,11 +4,12 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
     const menuItem = <>
     
-    <li className='mr-2 font-bold text-info'><NavLink to="/">HOME</NavLink></li>
+    <li className='mr-2 font-bold text-info'><NavLink to="/home">HOME</NavLink></li>
     
     <li tabindex="0" className='mr-2 font-bold text-info'><NavLink to="/about">ABOUT</NavLink></li>
 
     <li  className='mr-2 font-bold text-info'><NavLink to="/contact">CONTACT</NavLink></li>
+    <li  className='mr-2 font-bold text-info'><NavLink to="/blog">BLOG</NavLink></li>
                              
 
     </>
