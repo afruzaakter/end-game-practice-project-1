@@ -3,9 +3,11 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Blog from './Blog/Blog';
 import About from './Pages/about/About';
-import Contact from './Pages/Contact/Contact';
+import Contact from './Pages/contact/Contact';
 import Home from './Pages/Home/Home';
 import Navbar from './Pages/Navbar';
+
+
 
 function App() {
   return (
