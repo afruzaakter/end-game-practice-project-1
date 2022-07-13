@@ -8,6 +8,8 @@ import Footer from './Pages/footer/Footer';
 import Home from './Pages/Home/Home';
 import Navbar from './Pages/Navbar';
 
+
+
 function App() {
   return (
     <div className='mx-16'>
