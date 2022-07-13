@@ -9,6 +9,7 @@ const Navbar = () => {
     <li tabindex="0" className='mr-2 font-bold text-info'><NavLink to="/about">ABOUT</NavLink></li>
 
     <li  className='mr-2 font-bold text-info'><NavLink to="/contact">CONTACT</NavLink></li>
+    <li  className='mr-2 font-bold text-info'><NavLink to="/blog">BLOG</NavLink></li>
                              
 
     </>
